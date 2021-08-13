@@ -1,7 +1,7 @@
 # Projeto Arduino
 
 ## Sensor de Movimento para acender uma luz
-Utilizando os sesores de movimento, neste caso 2 sensroes, para fazer o acionamento de um relé que acende uma luz. 
+Utilizando os sesores de movimento, neste caso 2 sensores, para fazer o acionamento de um relé que acende uma luz. 
 Os sensores foram dispostos em cantos separados do ambiente, um no portão de entrada, e outro no porta para dentro de casa, para que idempedentemete, se eu estiver entrando para dentro de casa, ou saindo, a luz ficará ligada nesse trajeto por um tempo determinado
 
 
