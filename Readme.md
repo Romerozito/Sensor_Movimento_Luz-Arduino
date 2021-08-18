@@ -16,7 +16,7 @@
 - Modulo Relé 
 - Cabos de rede para as ligações
 
-<p align=justify>Utilizando esses matériais, foi feito a ligação como descrito na imaegem a baixo. Para o codigo do arduino, é simples, primeiro é feito uma leitura da quantidade de luz no ambiente, e caso esse valor ser abaixo do definido, ou seja, se estiver escuro, o codigo continua, se não, ele fica verificando esse valor em Loop </p>
+<p align=justify>Utilizando esses matériais, foi feito a ligação como descrito na imaegem a baixo. Para o codigo do arduino, é simples, primeiro é feito uma leitura da quantidade de luz no ambiente, e caso esse valor ser abaixo do definido, ou seja, se estiver escuro, o codigo continua, se não, ele fica verificando esse valor em Loop. Após essa primeira verificação, é feita agora a verificação dos sensores de distancia, utilizando a bibilioteca NewPing, para poder utilizar varios sensores em paralelo, caso algum desses sensores detecte algo, o codigo então acionara um rele para acender a luz por um determinado tempo, tempo suficiente para alguma pessoa percorrer todo o trajeto do ambiente.</p>
 
 ## Esquemático da ligação entre os componetes
 ![ligação](Esquema_ligacao_sensor_Movimento.png)
