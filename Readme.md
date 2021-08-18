@@ -31,8 +31,7 @@ Os sensores foram dispostos em cantos separados do ambiente, um no portão de en
 <br>
 
 ### Sugestões
-<p align=justify>Caso você tenha sugestões e ideias para implementar/acrescentar em meu projeto, por favor entre em contato, eu adoraria discutir e ouvir!</p>
-
+<p align=justify>Caso você tenha sugestões e ideias para implementar/acrescentar em meu projeto, por favor entre em contato, eu adoraria discutir e ouvir! <a href=mailto:viniciusdename@hotmail.com>Me mande um email</a> </p>
 <br>
 <br>
 
