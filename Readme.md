@@ -1,6 +1,7 @@
 # Projeto Arduino
 
-<br>
+<br> 
+
 
 ## Sensor de Movimento para acender uma lâmapda
 <p align=justify>O obejetivo deste projeto, é utilizar um arduino para fazer o acionamento de uma lâmpada para iluminar o trajeto que percorro do portão da rua até a porta de casa, iluminando os 5 degrais e entre outros obstaculos que pode ter pelo caminho, para não precisar utilizar um interruptor convencional, irei utilizar 2 sensores de distancia, e um sensor de luminosidade, para a lâmpada ser acioanada realmente só quando nescessário.</p>
